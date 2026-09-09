@@ -1,0 +1,4 @@
+Season,Yield_Tonnes_Ha,Production_Tonnes,Market_Price_INR_Tonne,Total_Cost_INR,Revenue_INR,Profit_INR,Water_Used_m3,Water_Efficiency_t_per_1000m3,Rainfall_mm,Avg_Temperature_C,Humidity_pct,Soil_Moisture_pct,Seed_Quality_Score,Disease_Pest_Risk_pct
+Kharif,5.63,46.31,44850.91,531804.41,710719.06,178914.65,6102.2,5.89,849.2,28.45,71.81,31.15,0.82,54.47
+Rabi,5.04,41.49,44747.97,513836.58,601526.05,87689.47,5846.99,5.19,437.62,23.49,57.89,24.07,0.83,40.48
+Zaid,4.64,38.89,44212.03,543976.73,519171.9,-24804.82,6419.89,4.41,304.65,31.04,52.01,19.28,0.82,38.22
